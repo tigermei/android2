@@ -12,9 +12,9 @@
         android:layout_height="200dp"
         android:layout_weight="1"
         android:layout_gravity="bottom"
+        android:layout_margin="10dp"
         android:gravity="left"
         android:background="#ff0000"
-        android:layout_margin="10dp"
         android:padding="10dp"
         android:orientation="vertical">
 
@@ -31,9 +31,9 @@
         android:layout_height="200dp"
         android:layout_weight="1"
         android:layout_gravity="top"
+        android:layout_margin="10dp"
         android:gravity="right"
         android:background="#ff0000"
-        android:layout_margin="10dp"
         android:padding="10dp"
         android:orientation="vertical">
 
